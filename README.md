@@ -49,7 +49,7 @@ Output saved to out.asm
 
 ### Example
 
-Download the `example.s` and `example.hex` files. They represent the same program written in assembly and machine code.
+Download `example.s` and `example.hex` from the [`examples/`](examples/) folder. They represent the same program written in assembly and machine code.
 
 ```bash
 $ asp example.s -f hex
