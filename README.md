@@ -1,6 +1,6 @@
 # ASP
 
-An assembler (and disassembler) for stepper motor ASIP code in MECHTRON 3TB4, written in Rust.
+An assembler (and disassembler) for stepper motor ASIP code, written in Rust.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -73,7 +73,7 @@ There are 4 registers `r0 r1 r2 r3`:
 - `r2` Stepper motor position
 - `r3` Delay period
 
-The immediates are either signed `In` or unsigned `Un` where `n` is the number of bits.
+The immediates are either signed `In` or unsigned `Un`, where `n` is the number of bits.
 
 Comments start with a semicolon.
 
