@@ -15,7 +15,7 @@ An assembler (and disassembler) for stepper motor ASIP code, written in Rust.
 Requires [`cargo`](https://doc.rust-lang.org/cargo/getting-started/installation.html).
 
 ```bash
-cargo install --git
+cargo install --git https://github.com/BlakeFreer/asp.git
 ```
 
 ## Usage
